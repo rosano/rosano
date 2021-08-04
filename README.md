@@ -6,7 +6,7 @@ https://opencollective.com/rosano
 
 ### open-source projects
 
-| started | icon | name | description |
+| start | icon | name | description |
 | - | - | - | - |
 | 2021 | <img src="https://static.rosano.ca/eas/identity-green-background.svg" width="32" /> | [Easy Indie App](https://github.com/0dataapp/easyindie) | run your own X in a few clicks |
 | 2021 | <img src="https://static.rosano.ca/joybox/identity.svg" width="32" /> | [Joybox](https://github.com/joyboxapp/joybox) | a pinboard for audiovisual media |
