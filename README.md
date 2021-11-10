@@ -1,6 +1,6 @@
-### build the world you want to live in
+### help me keep creating projects that are public, accessible for free, and open-source
 
-https://opencollective.com/rosano
+<a href="https://rosano.ca/back"><img alt="Become a backer" src="https://static.rosano.ca/_shared/_RCSBackButton.svg" /></a>
 
 ---
 
