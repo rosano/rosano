@@ -1,6 +1,8 @@
-### help me keep creating projects that are public, accessible for free, and open-source
+### stay tuned
 
-<a href="https://rosano.ca/back"><img alt="Become a backer" src="https://static.rosano.ca/_shared/_RCSBackButton.svg" /></a>
+Receive updates on [Twitter](https://twitter.com/rosano) or [Mastodon](https://merveilles.town/@rosano), or via my [weekly newsletter](https://rosano.ca/ephemerata).
+
+<a href="https://rosano.ca/ephemerata"><img alt="Subscribe" src="https://static.rosano.ca/_shared/_RCSSubscribeButton.svg" /></a>
 
 ---
 
@@ -22,9 +24,3 @@
 | 2015 | <img src="https://static.rosano.ca/emojilog/identity.svg" width="32" /> | [Emoji Log](https://github.com/emojilog/emojilog) | track and change your habits |
 
 See also: [other projects](https://rosano.hmm.garden/01etsqssqjv29ykfphkxq01042).
-
----
-
-### find out about my next project
-
-Receive updates on [Twitter](https://twitter.com/rosano) or [Mastodon](https://merveilles.town/@rosano), or via the [mailing list](https://rosano.ca/list).
