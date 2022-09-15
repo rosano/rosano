@@ -1,8 +1,8 @@
 ### stay tuned
 
-Receive updates on [Twitter](https://twitter.com/rosano) or [Mastodon](https://merveilles.town/@rosano), or via my [Sunday newsletter](https://rosano.ca/ephemerata).
+Receive updates on [Twitter](https://twitter.com/rosano) or [Mastodon](https://merveilles.town/@rosano), or via my [mailing list](https://rosano.ca/list).
 
-<a href="https://rosano.ca/ephemerata"><img alt="Subscribe" src="https://static.rosano.ca/_shared/_RCSSubscribeButton.svg" /></a>
+<a href="https://rosano.ca/list"><img alt="Subscribe" src="https://static.rosano.ca/_shared/_RCSSubscribeButton.svg" /></a>
 
 ---
 
