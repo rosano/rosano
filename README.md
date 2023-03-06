@@ -10,6 +10,7 @@ Receive updates on [Twitter](https://twitter.com/rosano) or [Mastodon](https://m
 
 | start | icon | name | description |
 | - | - | - | - |
+| 2023 | <img src="https://static.rosano.ca/sharesnip/identity.svg" width="24" aria-hidden="true" /> | [Sharesnip](https://github.com/sharesnip/sharesnip) | free QR code generator and scanner |
 | 2021 | <img src="https://static.rosano.ca/easyindieapp/identity-green-background.svg" width="32" /> | [Easy Indie App](https://github.com/0dataapp/easyindie) | run your own X in a few clicks |
 | 2021 | <img src="https://static.rosano.ca/joybox/identity.svg" width="32" /> | [Joybox](https://github.com/joyboxapp/joybox) | a pinboard for audiovisual media |
 | 2021 | <img src="https://static.rosano.ca/swar/identity.svg" width="32" /> | [Doorless appring](https://github.com/0dataapp/small-web-app-ring) | webring for web apps that work without an account |
