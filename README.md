@@ -10,7 +10,7 @@ Receive updates on [Twitter](https://twitter.com/rosano) or [Mastodon](https://m
 
 | start | icon | name | description |
 | - | - | - | - |
-| 2023 | <img src="https://static.rosano.ca/sharesnip/identity.svg" width="32" aria-hidden="true" /> | [Sharesnip](https://github.com/rosano/sharesnip) | free QR code generator and scanner |
+| 2023 | <img src="https://static.rosano.ca/sharesnip/identity.svg" width="32" aria-hidden="true" /> | [Sharesnip](https://github.com/rosano/sharesnip) | QR code generator and scanner |
 | 2022 | <img src="https://static.rosano.ca/strolling/identity.svg" width="32" /> | [Strolling](https://github.com/rosano/strolling-ghost-theme) | converations with people I meet along the way |
 | 2021 | <img src="https://static.rosano.ca/easyindieapp/identity-green-background.svg" width="32" /> | [Easy Indie App](https://github.com/0dataapp/easyindie) | run your own X in a few clicks |
 | 2021 | <img src="https://static.rosano.ca/joybox/identity.svg" width="32" /> | [Joybox](https://github.com/rosano/joybox) | a pinboard for audiovisual media |
