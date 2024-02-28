@@ -1,6 +1,6 @@
 ### stay tuned
 
-Receive updates on [Twitter](https://twitter.com/rosano) or [Mastodon](https://merveilles.town/@rosano), or via my [mailing list](https://rosano.ca/list).
+Receive updates on [Twitter](https://rosano.ca/twitter) or [Mastodon](https://merveilles.town/@rosano), or via my [mailing list](https://rosano.ca/list).
 
 <a href="https://rosano.ca/list"><img alt="Subscribe" src="https://static.rosano.ca/_shared/_RCSSubscribeButton.svg" /></a>
 
