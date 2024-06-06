@@ -24,5 +24,6 @@ Receive updates on [Twitter](https://rosano.ca/twitter) or [Mastodon](https://me
 | 2018 | <img src="https://static.rosano.ca/oldskool/identity.svg" width="32" /> | [OldSkool](https://github.com/olsk) | modules for other projects |
 | 2017 | <img src="https://static.rosano.ca/wikiavec/identity.svg" width="32" /> | [Hyperdraft](https://github.com/rosano/hyperdraft) | turn your text notes into a website |
 | 2015 | <img src="https://static.rosano.ca/emojilog/identity.svg" width="32" /> | [Emoji Log](https://github.com/rosano/emojilog) | track and change your habits |
+| 2014 | <img src="https://static.rosano.ca/cooked-august/identity.gif" width="32" /> | [Cooked August](https://github.com/rosano/cooked-august) | a month of cooking at home |
 
 See also: [other projects](https://rosano.hmm.garden/01etsqssqjv29ykfphkxq01042).
