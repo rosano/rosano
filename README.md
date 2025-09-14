@@ -1,6 +1,6 @@
 ### stay tuned
 
-Receive updates on [Mastodon](https://rosano.ca/mastodon) or [Twitter](https://rosano.ca/twitter), or via my [mailing list](https://rosano.ca/list).
+Receive updates on [Mastodon](https://rosano.ca/mastodon) or [Bluesky](https://rosano.ca/bluesky), or via my [mailing list](https://rosano.ca/list).
 
 <a href="https://rosano.ca/list"><img alt="Subscribe" src="https://static.rosano.ca/_shared/_RCSSubscribeButton.svg" /></a>
 
