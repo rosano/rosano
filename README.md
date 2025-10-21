@@ -4,7 +4,7 @@ Projects, writing, music, reads, and life, [right in your inbox](https://rosano.
 
 <a href="https://rosano.ca/occasion/"><img alt="Subscribe" src="https://static.rosano.ca/_shared/_RCSSubscribeButton.svg" /></a>
 
-More often on [Mastodon](https://rosano.ca/mastodon) or [Bluesky](https://rosano.ca/bluesky), or [RSS](https://rosano.ca/feed).
+More often on [Mastodon](https://rosano.ca/mastodon), [Bluesky](https://rosano.ca/bluesky), [nostr](https://njump.me/npub1mzxyx0e56ye094r03lq08d8z3wah6yfx982tegwtlsx6guv9z5qqzj3ktm), or [RSS](https://rosano.ca/feed).
 
 ---
 
