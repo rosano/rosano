@@ -1,8 +1,10 @@
-### stay tuned
+### Quarterly updates from me
 
-Receive updates on [Mastodon](https://rosano.ca/mastodon) or [Bluesky](https://rosano.ca/bluesky), or via my [mailing list](https://rosano.ca/list).
+Projects, writing, music, reads, and life, [right in your inbox](https://rosano.ca/occasion/).
 
-<a href="https://rosano.ca/list"><img alt="Subscribe" src="https://static.rosano.ca/_shared/_RCSSubscribeButton.svg" /></a>
+<a href="https://rosano.ca/occasion/"><img alt="Subscribe" src="https://static.rosano.ca/_shared/_RCSSubscribeButton.svg" /></a>
+
+More often on [Mastodon](https://rosano.ca/mastodon) or [Bluesky](https://rosano.ca/bluesky), or [RSS](https://rosano.ca/feed).
 
 ---
 
