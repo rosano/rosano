@@ -12,6 +12,7 @@ More often on [Mastodon](https://rosano.ca/mastodon), [Bluesky](https://rosano.c
 
 | start | icon | name | description |
 | - | - | - | - |
+| 2026 | <img src="https://bind.0data.app/identity.svg" width="32" aria-hidden="true" /> | [Bind](https://github.com/0dataapp/bind) | git-backed web apps |
 | 2025 | <img src="https://static.rosano.ca/memo/identity.svg" width="32" aria-hidden="true" /> | [memo](https://github.com/rosano/memo) | a notepad you can't edit |
 | 2024 | <img src="https://static.rosano.ca/rcreativ/identity-black.svg" width="32" aria-hidden="true" /> | [Home](https://github.com/rosano/home) | where my online world lives |
 | 2023 | <img src="https://static.rosano.ca/sharesnip/identity.svg" width="32" aria-hidden="true" /> | [Sharesnip](https://github.com/rosano/sharesnip) | QR code generator and scanner |
