@@ -31,4 +31,4 @@ More often on [Mastodon](https://rosano.ca/mastodon), [Bluesky](https://rosano.c
 | 2015 | <img src="https://static.rosano.ca/emojilog/identity.svg" width="32" /> | [Emoji Log](https://github.com/rosano/emojilog) | track and change your habits |
 | 2014 | <img src="https://static.rosano.ca/rcreativ/open-cooked-august/identity.gif" width="32" /> | [Cooked August](https://github.com/rosano/cooked-august) | a month of cooking at home |
 
-See also: [other projects](https://rosano.hmm.garden/01etsqssqjv29ykfphkxq01042).
+See also: [other projects](https://ref.rosano.ca/01etsqssqjv29ykfphkxq01042).
